@@ -1,0 +1,6 @@
+{
+  "name": "Lawi-Hub Corporate Legal Operations",
+  "description": "Plataforma de operações jurídicas corporativas, gestão de soft landing, governança societária, esteira contratual e inteligência regulatória.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
